@@ -6,7 +6,7 @@
 //      Update: April 10, 2020
 //
 //----------------------------------------------------/
-//INSPIRO Global var
+//INSPIRO Global variable
 var INSPIRO = {},
   $ = jQuery.noConflict();
 (function ($) {
