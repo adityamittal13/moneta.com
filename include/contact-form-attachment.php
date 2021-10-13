@@ -17,7 +17,7 @@ $to = "";
 
 // Add your reCaptcha Secret key if you wish to activate google reCaptcha security
 $recaptcha_secret_key = ''; 
-
+ 
 // Default message responses
 const RESPONSE_MSG = [
     'success' => [
