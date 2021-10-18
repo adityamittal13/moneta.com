@@ -28,7 +28,7 @@ const RESPONSE_MSG = [
         "name"                   => "Contact Form",
         "subject"                => "New Message From Contact Form"
     ],
-    'google' => [
+    'google' => [ 
         "recapthca_invalid"     => "reCaptcha is not Valid! Please try again.",
         "recaptcha_secret_key"  => "Google reCaptcha secret key is missing in config file!"
     ]
