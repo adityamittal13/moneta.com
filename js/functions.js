@@ -3,7 +3,7 @@
 //      POLO - HTML5 Template
 //      Author: INSPIRO - Ardian Berisha
 //      Version: v5.9.9
-//      Update: April 10, 2020
+//      Update: April 10, 2020 
 //
 //----------------------------------------------------/
 //INSPIRO Global variable
